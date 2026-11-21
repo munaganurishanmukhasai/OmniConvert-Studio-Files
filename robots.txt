@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://munaganurishanmukhasai.github.io/OmniConvert-Studio-Files/sitemap.xml
-
+Sitemap: https://munaganurishanmukhasai.github.io/OmniConvert-Studio-Files/sitemap.txt
